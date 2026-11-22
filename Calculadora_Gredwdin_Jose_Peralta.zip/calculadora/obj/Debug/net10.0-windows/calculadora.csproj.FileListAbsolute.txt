@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.Form1.resources
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\calculadora\calculadora\bin\Debug\net10.0-windows\calculadora.exe
+C:\Users\usuario\source\repos\calculadora\calculadora\bin\Debug\net10.0-windows\calculadora.deps.json
+C:\Users\usuario\source\repos\calculadora\calculadora\bin\Debug\net10.0-windows\calculadora.runtimeconfig.json
+C:\Users\usuario\source\repos\calculadora\calculadora\bin\Debug\net10.0-windows\calculadora.dll
+C:\Users\usuario\source\repos\calculadora\calculadora\bin\Debug\net10.0-windows\calculadora.pdb
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.dll
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\refint\calculadora.dll
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.pdb
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\ref\calculadora.dll
+C:\Users\usuario\source\repos\calculadora\calculadora\obj\Debug\net10.0-windows\calculad.32F6ED5B.Up2Date
